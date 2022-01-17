@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+![Build Status](https://travis-ci.org/Bileonaire/Bileonaires_club.svg?branch=Develop-API-v2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+# Todo App
+## TypeScript and React
+This is an application that helps in managing tasks.
+It is built on React using TypeScript.
+
+![App Image](https://raw.githubusercontent.com/Bileonaire/TodoList-React-TypeScript/master/public/todo.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
